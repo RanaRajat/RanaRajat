@@ -1,14 +1,51 @@
-<h1 align="center">Hi 👋, I'm Rajat Kumar</h1>
-<h3 align="center">Determined and enthusiastic aspiring full-stack developer with a specialisation in MERN stack</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rajat Kumar/h1>
 
-- 👨‍💻 All of my projects are available at [https://rajat.vercel.app/](https://rajat.vercel.app/)
-
-- 📫 How to reach me **rajatrana.rk@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="//www.linkedin.com/in/rajat-kumar-213184210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rajat-kumar-213184210" height="30" width="40" /></a>
+<h3 align="center">I’m a full-stack web developer and creative coder who specializes in MERN stack development.My mission is to translate user-focused designs into pixel-perfect websites or applications that run blazing fast. A passionate learner who's always willing to learn and work across technologies and domains 💡.</br>I love to explore new technologies and leverage them to solve real-life problems.</h3>
+<p align="center">
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=FFFF&center=true&lines=1500%2B+Hours+of+Coding+Experience;Data+Structure;Algorithm;MERN+Stack;Full+Stack+Web+Developer"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RanaRajat" alt="RanaRajat" /></a> </p>
+
+- 🌱 I’m currently learning Data Structures and Algorithms and MERN Stack.
+
+- ⚡ Fun fact : I love debugging because it makes me feel like a superhero🦸‍♀️!
+
+## 🚀 Languages and Tools  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+![JavaScript_Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React_Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NodeJs_Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![ExpressJs_Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB_Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![NPM_Badge](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![MaterialUI_Badge](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+<img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+
+### Reach me on <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<p align="left">
+ <a href="https://www.linkedin.com/in/rajat-kumar-213184210" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  <a href="mailto:rajatrana.rk@gmail.com" target="_blank">
+</p>
+
+ ### My GitHub Stats:
+![stats](https://github-readme-streak-stats.herokuapp.com/?user=RanaRajat&theme=react&hide_border=true")
+![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RanaRajat&theme=react&hide_border=true")
+![stats](https://github-readme-stats.vercel.app/api?username=RanaRajat&theme=react&hide_border=true")
+
+  
+  ### ⚡Top Repositories
+
+
+<a href="https://github.com/RanaRajat/freshly-website-clone">
+  <img align="center"  src="https://frosty-neumann-1b644b.netlify.app/" />
+</a>
+<a href="https://github.com/m-sehrawat/Lybrate-Website-Clone-Version-2.0">
+  <img align="center" src="https://m-sehrawat.github.io/Lybrate-Website-Clone/frontend/landingpage.html" />
+  </a>
+  
+<br />
+<br />
+
+### Looking forward to collaborate on interesting projects, share your creative ideas with me and let's build together. 🤝
