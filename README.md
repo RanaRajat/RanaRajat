@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rajat Kumar/h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rajat Kumar</h1>
 
 <h3 align="center">I’m a full-stack web developer and creative coder who specializes in MERN stack development.My mission is to translate user-focused designs into pixel-perfect websites or applications that run blazing fast. A passionate learner who's always willing to learn and work across technologies and domains 💡.</br>I love to explore new technologies and leverage them to solve real-life problems.</h3>
 <p align="center">
@@ -35,15 +35,7 @@
 ![stats](https://github-readme-stats.vercel.app/api?username=RanaRajat&theme=react&hide_border=true")
 
   
-  ### ⚡Top Repositories
-
-
-<a href="https://github.com/RanaRajat/freshly-website-clone">
-  <img align="center"  src="https://frosty-neumann-1b644b.netlify.app/" />
-</a>
-<a href="https://github.com/m-sehrawat/Lybrate-Website-Clone-Version-2.0">
-  <img align="center" src="https://m-sehrawat.github.io/Lybrate-Website-Clone/frontend/landingpage.html" />
-  </a>
+ 
   
 <br />
 <br />
