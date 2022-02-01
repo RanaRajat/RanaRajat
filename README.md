@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rajat Kumar</h1>
 
-<h3 align="center">Determined and enthusiastic aspiring full-stack developer with a specialization in MERN stack.</h3>
+<h3 align="center">Determined and enthusiastic full-stack developer with a specialization in MERN stack.</h3>
 <p align="center">
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=FFFF&center=true&lines=1500%2B+Hours+of+Coding+Experience;Data+Structure;Algorithm;MERN+Stack;Full+Stack+Web+Developer"></a>
 </p>
